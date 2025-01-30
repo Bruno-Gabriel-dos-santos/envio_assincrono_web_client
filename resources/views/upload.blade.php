@@ -12,7 +12,7 @@
     </div>
 
     <script>
-        const CHUNK_SIZE = 9 * 1024 * 1024; // 9MB
+        const CHUNK_SIZE = 7 * 1024 * 1024; // 9MB
 
         async function startUpload() {
             const fileInput = document.getElementById('fileInput');

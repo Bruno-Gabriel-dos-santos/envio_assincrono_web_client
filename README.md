@@ -1,2 +1,2 @@
 # envio_assincrono_web_client
-envio de arquivo fatiado para o servidor-cliente ? modelos de teste ?
+Envios de dados e arquivos assincronos e fatiados usando laravel11/php8.3 , o modelo serve de codigo base para envio de arquivos grandes para servidores usando sistema de repartição dos dados assim enviando partes do arquivo por vez o que causa uma melhor eficiencia no sistema web alem de ter um envio assincrono fazendo com que a pagina fique livre para outras tarefas ao contrario do modelo tradicional de furmulario. 
